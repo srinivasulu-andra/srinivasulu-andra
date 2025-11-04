@@ -85,7 +85,6 @@ I specialize in both **Informatica MDM** and **Profisee MDM** platforms and have
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=srinivasulu-andra&theme=tokyonight" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=srinivasulu-andra&theme=default" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=srinivasulu-andra" height="150"/>
   </picture>
 </p>
 
