@@ -30,7 +30,7 @@ I specialize in both **Informatica MDM** and **Profisee MDM** platforms and have
 | Period | Role | Company | Key Technologies |
 |:--|:--|:--|:--|
 | **Nov 2024 – Present** | Profisee MDM Developer | **Wipfli India** | Profisee, Fast Apps, API, D365, Workday |
-| **Apr 2023 – Present** | Profisee MDM Developer | **Hexaware Technologies Ltd** | Profisee, SQL Server, Azure DevOps |
+| **Apr 2023 – Present** | Profisee MDM Developer | **IQUW** | Profisee, SQL Server, Azure DevOps |
 | **May 2023 – Feb 2024** | Profisee MDM Developer | **Yorkshire Water** | Profisee, Data Governance, FastAPI |
 | **Jun 2022 – Apr 2023** | Informatica MDM Developer | **HSB (Munich Re)** | Informatica MDM, Metadata Manager |
 | **Dec 2019 – May 2022** | Informatica MDM Developer | **HPE (HP Channel Partner)** | Informatica, Oracle, ETL |
